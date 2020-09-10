@@ -1,3 +1,3 @@
 # Deluxe Parking (School Assignment)
-# https://johanlindstrm.github.io/deluxe_parkingV2/
+# https://johanlindstrm.github.io/deluxe-parking-v2/
  
